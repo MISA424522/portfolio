@@ -4,7 +4,7 @@
 https://docs.google.com/spreadsheets/d/1lolnX_hkKsOpPMrYh8f5jNsaLkHZAyMgfpTLQziUKcw/edit?gid=74722085#gid=74722085>要件定義・基本設計・詳細設計の一覧_Googleスプレッドシート</a>
 
 詳細設計時のワイヤーフレーム、ER図、ワークフロー図の画像はdocsディレクトリに格納しています。
-<a herf=docs/gitignore>(こちらからアクセス)</a>
+<a herf="docs/gitignore">(こちらからアクセス)</a>
 
 <h1>機能一覧</h1>
 <ul>
