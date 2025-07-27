@@ -10,6 +10,5 @@ https://docs.google.com/spreadsheets/d/1lolnX_hkKsOpPMrYh8f5jNsaLkHZAyMgfpTLQziU
 <ul>
   <li>・ユーザー登録、ログイン機能</li>
   <li>・リスト作成・編集・追加・削除機能</li>
-  <li>色付け機能</li>
-  <li>リスト入れ替え機能</li>
+</ul>  
 
