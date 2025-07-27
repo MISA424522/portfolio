@@ -6,7 +6,7 @@
 <a href="docs/.gitignore">(こちらからアクセス)</a>
 
 # サイトイメージ
-![アプリ画像](https://github.com/MISA424522/To-do-list/blob/23a93c90ac8f042debd81ae3baafe4c5924f67cf/docs/To%20do%E3%82%A2%E3%83%97%E3%83%AA%E7%94%BB%E9%9D%A2.png?raw=true)
+![アプリ画像](https://github.com/MISA424522/portfolio/blob/08e2a40f825954a5eb5c2fc6714e7548b559b38e/docs/To%20do%E3%82%A2%E3%83%97%E3%83%AA%E7%94%BB%E9%9D%A2.png?raw=true)
 
 # サイトURL  
 https://to-do-list-psi-lilac.vercel.app/
