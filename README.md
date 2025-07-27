@@ -6,6 +6,12 @@ https://docs.google.com/spreadsheets/d/1lolnX_hkKsOpPMrYh8f5jNsaLkHZAyMgfpTLQziU
 詳細設計時のワイヤーフレーム、ER図、ワークフロー図の画像はdocsディレクトリに格納しています。
 <a href="docs/.gitignore">(こちらからアクセス)</a>
 
+#　サイトイメージ
+![アプリ画像]
+
+# サイトURL
+https://to-do-list-psi-lilac.vercel.app/
+
 <h1>機能一覧</h1>
 <ul>
   <li>・ユーザー登録、ログイン機能</li>
